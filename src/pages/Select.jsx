@@ -30,7 +30,7 @@ const Select = () => {
             </div>
             <div className="select_block_rows2_xs">
               <div className="select_block_title">
-                <p className="select_block_title_p">ADV Used Parts LLS</p>
+                <p className="select_block_title_p">ADV Used Parts LLSC</p>
               </div>
               <div className="select_block_city">
                 <p className="select_block_city_p">Traverse City, MI</p>
